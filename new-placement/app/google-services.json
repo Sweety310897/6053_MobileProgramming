@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47032817125",
+    "firebase_url": "https://msit-placement.firebaseio.com",
+    "project_id": "msit-placement",
+    "storage_bucket": "msit-placement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47032817125:android:b5a31e5feef49423",
+        "android_client_info": {
+          "package_name": "com.example.msit_placement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47032817125-20kn1mnnetrqt06cajt42jhj4rglk9ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWxHEG31Rx7BRfzdGkxpjvMuhxYn6iIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
